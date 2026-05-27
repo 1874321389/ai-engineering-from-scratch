@@ -86,7 +86,7 @@ For this course, you need exactly these commands:
 
 | Command | When |
 |---------|------|
-| `git clone` | Get the course repo |
+| `git clone` | Get the course rep
 | `git add` + `git commit` | Save your work |
 | `git push` | Back it up to GitHub |
 | `git checkout -b` | Try something without breaking main |
